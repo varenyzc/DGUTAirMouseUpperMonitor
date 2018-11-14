@@ -1,0 +1,24 @@
+C:\Users\Andrew\Desktop\GlobalHook\AdrHook\bin\Debug\AdrHook.dll
+C:\Users\Andrew\Desktop\GlobalHook\AdrHook\bin\Debug\AdrHook.pdb
+C:\Users\Andrew\Desktop\GlobalHook\AdrHook\obj\Debug\AdrHook.dll
+C:\Users\Andrew\Desktop\GlobalHook\AdrHook\obj\Debug\AdrHook.pdb
+C:\Users\Andrew\Desktop\GlobalHook\AdrHook\obj\Debug\AdrHook.csprojResolveAssemblyReference.cache
+D:\软件开发项目\AdrHookDemo\AdrHook\bin\Debug\AdrHook.dll
+D:\软件开发项目\AdrHookDemo\AdrHook\bin\Debug\AdrHook.pdb
+D:\软件开发项目\AdrHookDemo\AdrHook\obj\Debug\AdrHook.dll
+D:\软件开发项目\AdrHookDemo\AdrHook\obj\Debug\AdrHook.pdb
+E:\UCDownload\AdrHookDemo\AdrHook\bin\Debug\AdrHook.dll
+E:\UCDownload\AdrHookDemo\AdrHook\bin\Debug\AdrHook.pdb
+E:\UCDownload\AdrHookDemo\AdrHook\obj\Debug\AdrHook.csprojResolveAssemblyReference.cache
+E:\UCDownload\AdrHookDemo\AdrHook\obj\Debug\AdrHook.dll
+E:\UCDownload\AdrHookDemo\AdrHook\obj\Debug\AdrHook.pdb
+C:\Users\TianZhi\Documents\Tencent Files\771915084\FileRecv\毕设相关文档\毕设相关文档\软件部分\C#上位机\AdrHook\bin\Debug\AdrHook.dll
+C:\Users\TianZhi\Documents\Tencent Files\771915084\FileRecv\毕设相关文档\毕设相关文档\软件部分\C#上位机\AdrHook\bin\Debug\AdrHook.pdb
+C:\Users\TianZhi\Documents\Tencent Files\771915084\FileRecv\毕设相关文档\毕设相关文档\软件部分\C#上位机\AdrHook\obj\Debug\AdrHook.csprojResolveAssemblyReference.cache
+C:\Users\TianZhi\Documents\Tencent Files\771915084\FileRecv\毕设相关文档\毕设相关文档\软件部分\C#上位机\AdrHook\obj\Debug\AdrHook.dll
+C:\Users\TianZhi\Documents\Tencent Files\771915084\FileRecv\毕设相关文档\毕设相关文档\软件部分\C#上位机\AdrHook\obj\Debug\AdrHook.pdb
+E:\电子\C#\C#上位机\AdrHook\bin\Debug\AdrHook.dll
+E:\电子\C#\C#上位机\AdrHook\bin\Debug\AdrHook.pdb
+E:\电子\C#\C#上位机\AdrHook\obj\Debug\AdrHook.csprojResolveAssemblyReference.cache
+E:\电子\C#\C#上位机\AdrHook\obj\Debug\AdrHook.dll
+E:\电子\C#\C#上位机\AdrHook\obj\Debug\AdrHook.pdb

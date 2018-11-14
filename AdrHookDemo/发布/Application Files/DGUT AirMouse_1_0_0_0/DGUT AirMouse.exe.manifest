@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="DGUT AirMouse.exe" version="1.0.0.0" publicKeyToken="0cfbf865b1e6143c" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="bitbug_favicon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="DGUT AirMouse" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="DGUT AirMouse.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC 清单选项
+          如果要更改 Windows 用户帐户控制级别，请用以下节点之一替换
+          requestedExecutionLevel 节点。
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+          如果要利用文件和注册表虚拟化提供
+          向后兼容性，请删除 requestedExecutionLevel 节点。
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="4" minorVersion="10" buildNumber="0" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AdrHook.dll" size="19456">
+      <assemblyIdentity name="AdrHook" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>vjHB6MhZgQa+RJLm3MOAZFFXCw4=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DGUT AirMouse.exe" size="306176">
+      <assemblyIdentity name="DGUT AirMouse" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>Da6kdF5n3OL7GEsw21qQIo0lw6s=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="bitbug_favicon.ico" size="67646">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>YsB8pxyFWKylzXIuQNQ/GfzNNQY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="DGUT AirMouse.exe.config" size="117">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>a3Forh+i+nzyaONrpGeK7Sudu10=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-S3GQEBS\袁梓聪" issuerKeyHash="1991982ca9e2cd3d77d8d2473b40dc99512cc3c3" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>BSpX8sgh7kUpgiY+IU3pRYXCGFg=</DigestValue></Reference></SignedInfo><SignatureValue>RE8+Kh5DrNit4FsAmO/afPT+4z0YgwqHGkq1U/komwZN6+HxVo4X4TvQnXx7j9PJdw6hr/MIfLiOJk4CKLM7YUip5G+Qq3GNmD2f7/CwSokDV8Np+a2iVqYB6XIh13+FuFU1axKmMqTNQQkt2JkHrGYmt/JTmixeWx3LXN+YGzU=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>yp85J7oBZIDcMdrIOGGZVIvAGR+5w2PklSMxwXcGCuGbAMcJ7XxRCa7WjcS2+645HbRuaOCtKPrwO6Xt+9irfq5qvyvxYcQ9Kg3eGMpxnIKnvgL/c1lOGrkA9fDovwyy4Vwh31dBU+U5HS521sguvdMwUz3Mcx4oqiCEKlDIlBE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="5818c28545e94d213e26822945ee21c8f2572a05" Description="" Url=""><as:assemblyIdentity name="DGUT AirMouse.exe" version="1.0.0.0" publicKeyToken="0cfbf865b1e6143c" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-S3GQEBS\袁梓聪</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>OS2xJjBr7kFlNZ/gSChXwqJHgAY=</DigestValue></Reference></SignedInfo><SignatureValue>N+STTSZWd+KtoYbFOg7Ken7sNPjVWLReicZsM8g0wkjQngaS5+Clh8cMtS2czNd87TddvukNzzZTY1CoU3wSlPB3/Z0YbDDfsCWQ+5DoB2R+I1r7QtWHlgYJ6q/87e79LcS7oFrrUaGSdrTm5Z5oQUlFL1LzgEoOIItnZHg8EjI=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>yp85J7oBZIDcMdrIOGGZVIvAGR+5w2PklSMxwXcGCuGbAMcJ7XxRCa7WjcS2+645HbRuaOCtKPrwO6Xt+9irfq5qvyvxYcQ9Kg3eGMpxnIKnvgL/c1lOGrkA9fDovwyy4Vwh31dBU+U5HS521sguvdMwUz3Mcx4oqiCEKlDIlBE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB5TCCAU6gAwIBAgIQHQgyGJcol6RPfvHAU/nnHzANBgkqhkiG9w0BAQUFADAxMS8wLQYDVQQDHiYARABFAFMASwBUAE8AUAAtAFMAMwBHAFEARQBCAFMAXIiBaJOAajAeFw0xODAyMjgxNjMzNDBaFw0xOTAyMjgyMjMzNDBaMDExLzAtBgNVBAMeJgBEAEUAUwBLAFQATwBQAC0AUwAzAEcAUQBFAEIAUwBciIFok4BqMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDKnzknugFkgNwx2sg4YZlUi8AZH7nDY+SVIzHBdwYK4ZsAxwntfFEJrtaNxLb7rjkdtG5o4K0o+vA7pe372Kt+rmq/K/FhxD0qDd4YynGcgqe+Av9zWU4auQD18Oi/DLLhXCHfV0FT5TkdLnbWyC690zBTPcxzHiiqIIQqUMiUEQIDAQABMA0GCSqGSIb3DQEBBQUAA4GBAD1O/Dxb3KhJYELYhJ93XcLlJNWGSM1sb/FOoPPjWwIXU50Qh1rUOuFF4PnoG3ndaYWDzVZh1/KyeXPXOuDD8KefWIKlrgV9lJYbUuocI6ppKX0QVkPWdPtCcp5JSH+Ri7FcIwKX1xy2p+2G2O7TBFx0iNbjALAS3YkYs1nYX9uF</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

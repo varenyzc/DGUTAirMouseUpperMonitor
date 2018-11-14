@@ -1,0 +1,6 @@
+E:\电子\C#\C#上位机\AdrHookDemo\obj\Debug\DGUT_AirMouse.Form1.resources
+E:\电子\C#\C#上位机\AdrHookDemo\obj\Debug\DGUT_AirMouse.Form2.resources
+E:\电子\C#\C#上位机\AdrHookDemo\obj\Debug\AdrHookDemo.FrmMain.resources
+E:\电子\C#\C#上位机\AdrHookDemo\obj\Debug\AdrHookDemo.Properties.Resources.resources
+E:\电子\C#\C#上位机\AdrHookDemo\obj\Debug\DGUT AirMouse.csproj.GenerateResource.Cache
+E:\电子\C#\C#上位机\AdrHookDemo\obj\Debug\AdrHookDemo.exe

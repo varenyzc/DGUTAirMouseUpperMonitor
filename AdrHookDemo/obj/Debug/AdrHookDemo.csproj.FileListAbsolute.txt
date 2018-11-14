@@ -1,0 +1,61 @@
+D:\软件开发项目\AdrHookDemo\AdrHookDemo\bin\Debug\AdrHookDemo.exe
+D:\软件开发项目\AdrHookDemo\AdrHookDemo\bin\Debug\AdrHookDemo.pdb
+D:\软件开发项目\AdrHookDemo\AdrHookDemo\bin\Debug\AdrHook.dll
+D:\软件开发项目\AdrHookDemo\AdrHookDemo\bin\Debug\AdrHook.pdb
+D:\软件开发项目\AdrHookDemo\AdrHookDemo\obj\Debug\AdrHookDemo.csprojResolveAssemblyReference.cache
+D:\软件开发项目\AdrHookDemo\AdrHookDemo\obj\Debug\AdrHookDemo.FrmMain.resources
+D:\软件开发项目\AdrHookDemo\AdrHookDemo\obj\Debug\AdrHookDemo.Properties.Resources.resources
+D:\软件开发项目\AdrHookDemo\AdrHookDemo\obj\Debug\AdrHookDemo.csproj.GenerateResource.Cache
+D:\软件开发项目\AdrHookDemo\AdrHookDemo\obj\Debug\AdrHookDemo.exe
+D:\软件开发项目\AdrHookDemo\AdrHookDemo\obj\Debug\AdrHookDemo.pdb
+E:\UCDownload\AdrHookDemo\AdrHookDemo\obj\Debug\AdrHookDemo.exe
+E:\UCDownload\AdrHookDemo\AdrHookDemo\obj\Debug\AdrHookDemo.pdb
+E:\UCDownload\AdrHookDemo\AdrHookDemo\bin\Debug\AdrHookDemo.exe
+E:\UCDownload\AdrHookDemo\AdrHookDemo\bin\Debug\AdrHookDemo.pdb
+E:\UCDownload\AdrHookDemo\AdrHookDemo\bin\Debug\AdrHook.dll
+E:\UCDownload\AdrHookDemo\AdrHookDemo\bin\Debug\AdrHook.pdb
+E:\UCDownload\AdrHookDemo\AdrHookDemo\obj\Debug\AdrHookDemo.csprojResolveAssemblyReference.cache
+E:\UCDownload\AdrHookDemo\AdrHookDemo\obj\Debug\AdrHookDemo.FrmMain.resources
+E:\UCDownload\AdrHookDemo\AdrHookDemo\obj\Debug\AdrHookDemo.Properties.Resources.resources
+E:\UCDownload\AdrHookDemo\AdrHookDemo\obj\Debug\AdrHookDemo.csproj.GenerateResource.Cache
+E:\毕业设计\HMH毕设资料\软件部分\C#上位机\AdrHookDemo\obj\Debug\AdrHookDemo.exe
+E:\毕业设计\HMH毕设资料\软件部分\C#上位机\AdrHookDemo\obj\Debug\AdrHookDemo.pdb
+D:\毕设翻译\HMH毕设资料\软件部分\C#上位机\AdrHookDemo\obj\Debug\AdrHookDemo.exe
+D:\毕设翻译\HMH毕设资料\软件部分\C#上位机\AdrHookDemo\obj\Debug\AdrHookDemo.pdb
+D:\毕设翻译\HMH毕设资料\软件部分\C#上位机\AdrHookDemo\bin\Debug\AdrHookDemo.exe
+D:\毕设翻译\HMH毕设资料\软件部分\C#上位机\AdrHookDemo\bin\Debug\AdrHookDemo.pdb
+D:\毕设翻译\HMH毕设资料\软件部分\C#上位机\AdrHookDemo\bin\Debug\AdrHook.dll
+D:\毕设翻译\HMH毕设资料\软件部分\C#上位机\AdrHookDemo\bin\Debug\AdrHook.pdb
+D:\毕设翻译\HMH毕设资料\软件部分\C#上位机\AdrHookDemo\obj\Debug\AdrHookDemo.csprojResolveAssemblyReference.cache
+D:\毕设翻译\HMH毕设资料\软件部分\C#上位机\AdrHookDemo\obj\Debug\AdrHookDemo.FrmMain.resources
+D:\毕设翻译\HMH毕设资料\软件部分\C#上位机\AdrHookDemo\obj\Debug\AdrHookDemo.Properties.Resources.resources
+D:\毕设翻译\HMH毕设资料\软件部分\C#上位机\AdrHookDemo\obj\Debug\AdrHookDemo.csproj.GenerateResource.Cache
+C:\Users\TianZhi\Documents\Tencent Files\771915084\FileRecv\毕设相关文档\毕设相关文档\软件部分\C#上位机\AdrHookDemo\obj\Debug\AdrHookDemo.exe
+C:\Users\TianZhi\Documents\Tencent Files\771915084\FileRecv\毕设相关文档\毕设相关文档\软件部分\C#上位机\AdrHookDemo\obj\Debug\AdrHookDemo.pdb
+C:\Users\TianZhi\Documents\Tencent Files\771915084\FileRecv\毕设相关文档\毕设相关文档\软件部分\C#上位机\AdrHookDemo\bin\Debug\AdrHookDemo.exe
+C:\Users\TianZhi\Documents\Tencent Files\771915084\FileRecv\毕设相关文档\毕设相关文档\软件部分\C#上位机\AdrHookDemo\bin\Debug\AdrHookDemo.pdb
+C:\Users\TianZhi\Documents\Tencent Files\771915084\FileRecv\毕设相关文档\毕设相关文档\软件部分\C#上位机\AdrHookDemo\bin\Debug\AdrHook.dll
+C:\Users\TianZhi\Documents\Tencent Files\771915084\FileRecv\毕设相关文档\毕设相关文档\软件部分\C#上位机\AdrHookDemo\bin\Debug\AdrHook.pdb
+C:\Users\TianZhi\Documents\Tencent Files\771915084\FileRecv\毕设相关文档\毕设相关文档\软件部分\C#上位机\AdrHookDemo\obj\Debug\AdrHookDemo.csprojResolveAssemblyReference.cache
+C:\Users\TianZhi\Documents\Tencent Files\771915084\FileRecv\毕设相关文档\毕设相关文档\软件部分\C#上位机\AdrHookDemo\obj\Debug\AdrHookDemo.FrmMain.resources
+C:\Users\TianZhi\Documents\Tencent Files\771915084\FileRecv\毕设相关文档\毕设相关文档\软件部分\C#上位机\AdrHookDemo\obj\Debug\AdrHookDemo.Properties.Resources.resources
+C:\Users\TianZhi\Documents\Tencent Files\771915084\FileRecv\毕设相关文档\毕设相关文档\软件部分\C#上位机\AdrHookDemo\obj\Debug\AdrHookDemo.csproj.GenerateResource.Cache
+E:\电子\毕设相关文档\毕设相关文档\软件部分\C#上位机\AdrHookDemo\obj\Debug\AdrHookDemo.exe
+E:\电子\毕设相关文档\毕设相关文档\软件部分\C#上位机\AdrHookDemo\obj\Debug\AdrHookDemo.pdb
+E:\电子\C#\C#上位机\AdrHookDemo\bin\Debug\AdrHook.dll
+E:\电子\C#\C#上位机\AdrHookDemo\bin\Debug\AdrHook.pdb
+E:\电子\C#\C#上位机\AdrHookDemo\obj\Debug\AdrHookDemo.csprojResolveAssemblyReference.cache
+E:\电子\C#\C#上位机\AdrHookDemo\obj\Debug\AdrHookDemo.FrmMain.resources
+E:\电子\C#\C#上位机\AdrHookDemo\obj\Debug\AdrHookDemo.Properties.Resources.resources
+E:\电子\C#\C#上位机\AdrHookDemo\obj\Debug\AdrHookDemo.csproj.GenerateResource.Cache
+E:\电子\C#\C#上位机\AdrHookDemo\obj\Debug\AdrHookDemo.main.resources
+E:\电子\C#\C#上位机\AdrHookDemo\obj\Debug\AdrHookDemo.about.resources
+E:\电子\C#\C#上位机\AdrHookDemo\bin\Debug\DGUT AirMouse.exe.config
+E:\电子\C#\C#上位机\AdrHookDemo\bin\Debug\DGUT AirMouse.exe
+E:\电子\C#\C#上位机\AdrHookDemo\bin\Debug\DGUT AirMouse.pdb
+E:\电子\C#\C#上位机\AdrHookDemo\obj\Debug\DGUT AirMouse.exe
+E:\电子\C#\C#上位机\AdrHookDemo\obj\Debug\DGUT AirMouse.pdb
+E:\电子\C#\C#上位机\AdrHookDemo\bin\Debug\DGUT AirMouse.exe.manifest
+E:\电子\C#\C#上位机\AdrHookDemo\bin\Debug\DGUT AirMouse.application
+E:\电子\C#\C#上位机\AdrHookDemo\obj\Debug\DGUT AirMouse.exe.manifest
+E:\电子\C#\C#上位机\AdrHookDemo\obj\Debug\DGUT AirMouse.application
